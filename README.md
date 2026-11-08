@@ -77,12 +77,7 @@ Status: [Selesai / Sebagian / Berhenti — alasan]
 ```
 
 ### 1.4 Yang BUKAN bagian dari stack ini
-
-- **Binance Agentic Wallet (BAW)** — dompet utama user (BSC `<alamat-BAW>`), **bukan** dompet farming. Tidak pernah dipakai untuk farming.
 - **Dompet pribadi user** — penyimpanan jangka panjang, di luar stack, alamatnya tidak dicatat.
-- **OKX Agentic Wallet** — sudah dikeluarkan dari peran aktif (tidak dipakai).
-- **Akun X `@akun-X-niche-lain`** — akun niche HOPE (posting langsung), bukan akun farming.
-- **Smart Wallet Monitoring / jagent-monitor** — sistem terpisah (sinyal mint dompet pintar). Bukan bagian stack airdrop, walau berbagi VM yang sama.
 
 ---
 
