@@ -450,8 +450,6 @@ Akun X khusus farming. Dipakai untuk: OAuth read-only ke situs WL, dan follow/li
 #    Tolak kalau ada izin post/DM/follow/like/manage.
 ```
 
-**Yang TIDAK boleh:** memakai `@akun-X-niche-lain` (akun HOPE) untuk farming, atau memakai token akun switch yang ditunda (repo private) tanpa perintah user.
-
 ### 4.9 Langkah 7 — Aturan operasi (workflow per tugas)
 
 Ini bagian terpenting. Tools tanpa aturan ini berbahaya.
